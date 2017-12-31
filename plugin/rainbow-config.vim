@@ -1,0 +1,1 @@
+" plugin/rainbow-config.vim
